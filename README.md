@@ -1,11 +1,11 @@
-# Awesome Ruby AI 🤖💎
+# Awesome Ruby AI - Extended 🤖💎
 
-A curated and **merged** list of awesome **Ruby AI / ML projects**, libraries, frameworks, tools, and learning resources.
+A curated list of awesome **Ruby AI / ML projects**, libraries, frameworks, tools, and learning resources.
 
-This list consolidates and deduplicates:
+This list is consolidates from below resources and more:
 
-* RoboRuby – Ruby AI News mentions
-* alexrudall/awesome-ruby-ai
+* RoboRuby – Ruby AI News mentions [https://rubyai.beehiiv.com/archive](https://rubyai.beehiiv.com/archive)
+* alexrudall/awesome-ruby-ai - [https://github.com/alexrudall/awesome-ruby-ai](https://github.com/alexrudall/awesome-ruby-ai)
 * Additional Ruby AI / ML ecosystem projects
 
 ---
