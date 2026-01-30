@@ -104,6 +104,9 @@ This list consolidates and deduplicates:
 * **Raif** – Rails engine for AI-powered features and agents.
   [https://github.com/CultivateLabs/raif](https://github.com/CultivateLabs/raif)
 
+* **RubyLLM::Agents** - A Rails agent framework for RubyLLM — define AI agents with prompts, schemas, caching, logging, cost tracking, and a built-in dashboard for monitoring LLM usage in production.
+  [https://github.com/adham90/ruby_llm-agents](https://github.com/adham90/ruby_llm-agents)
+
 ---
 
 ## RAG, Embeddings & Vector Search
